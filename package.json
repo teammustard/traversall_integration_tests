@@ -1,0 +1,23 @@
+{
+	"name": "kontiki_integration_tests_zackzeyu",
+	"version": "1.0.0",
+	"description": "Repository for integration tests for Zack's component",
+	"main": "index.js",
+	"scripts": {
+		"test": "jest"
+	},
+	"repository": {
+		"type": "git",
+		"url": "git+https://github.com/teammustard/kontiki_integration_tests_zackzeyu.git"
+	},
+	"author": "",
+	"license": "ISC",
+	"bugs": {
+		"url": "https://github.com/teammustard/kontiki_integration_tests_zackzeyu/issues"
+	},
+	"homepage": "https://github.com/teammustard/kontiki_integration_tests_zackzeyu#readme",
+	"devDependencies": {
+		"jest": "^24.8.0",
+		"puppeteer": "^1.17.0"
+	}
+}
