@@ -18,6 +18,7 @@
 	"homepage": "https://github.com/teammustard/kontiki_integration_tests_zackzeyu#readme",
 	"devDependencies": {
 		"jest": "^24.8.0",
+		"jest-puppeteer": "^4.2.0",
 		"puppeteer": "^1.17.0"
 	}
 }
